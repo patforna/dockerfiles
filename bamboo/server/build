@@ -1,0 +1,3 @@
+#!/bin/bash
+
+docker build -t patforna/bamboo-server:5.12.2.1 -t patforna/bamboo-server:latest .
